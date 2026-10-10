@@ -24,27 +24,10 @@ I'm a passionate web developer who enjoys creating responsive websites, interact
 
 ### 💻 Featured Projects
 
-#### 🌐 Rajnish Portfolio
-My personal developer portfolio showcasing my projects and web development work.
-
-🔗 [Live Website](https://rajnishcodes.netlify.app/)
-
-📂 [Source Code](https://github.com/rajnishh-off/Rajnish-codes)
-
-#### 🍽️ Zaika Ghar
-A restaurant website featuring menu browsing, online ordering pages, and reservation features.
-
-🔗 [Visit Live Website](https://thezaikaghar.netlify.app/)
-
-🔒 Source code is private.
-
----
-
-### 📫 Connect With Me
-
-🌐 [My Portfolio](https://rajnishcodes.netlify.app/)
-
-💻 [GitHub Profile](https://github.com/rajnishh-off)
+| Project | Description | Live Demo | Source Code |
+|:---|:---|:---:|:---:|
+| 💻 **Rajnish Portfolio** | Interactive personal developer portfolio | [🌐 Visit](https://rajnishcodes.netlify.app/) | [GitHub](https://github.com/rajnishh-off/Rajnish-codes) |
+| 🍽️ **Zaika Ghar** | Restaurant website with menu, ordering and reservation pages | [🌐 Visit](https://thezaikaghar.netlify.app/) | 🔒 Private |
 
 ---
 
